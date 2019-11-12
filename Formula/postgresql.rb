@@ -41,7 +41,7 @@ class Postgresql < Formula
       --with-libxslt
       --with-openssl
       --with-pam
-      --with-perl
+      --without-perl
       --with-uuid=e2fs
     ]
 
